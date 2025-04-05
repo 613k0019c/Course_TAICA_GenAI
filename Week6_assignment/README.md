@@ -12,4 +12,4 @@
    - 建立 Gradio 網頁互動介面
 3. Demo:
 ![image](https://github.com/user-attachments/assets/41debd4e-4206-4ee3-8497-e21048d8164f)
-![image](https://github.com/user-attachments/assets/90caead6-a2d5-4c6f-a4b5-a1045635de06)
+![image](https://github.com/user-attachments/assets/e629b11b-e333-4ac3-bf07-35acdfa060cf)
