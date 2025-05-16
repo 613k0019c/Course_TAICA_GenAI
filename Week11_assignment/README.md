@@ -20,4 +20,10 @@
    - 建立 Gradio 網頁互動介面 (有修改部分內容)
 3. Demo:
 ![image](https://github.com/user-attachments/assets/ed007e41-ecbc-4057-9b6c-3f4a197c5353)
+![image](https://github.com/user-attachments/assets/c0f4c471-1db8-4a93-96a8-6ea41b73cf9d)
+![image](https://github.com/user-attachments/assets/34bd0102-458a-4010-aef2-42a6bb1917f7)
+![image](https://github.com/user-attachments/assets/5e8e2e1c-4638-4e5f-8d01-6a3acfa2cc18)
+
+
+
 
