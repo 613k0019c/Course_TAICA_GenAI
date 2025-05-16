@@ -17,6 +17,7 @@
    - 定義 prompt_advice 函式
    - 定義 generate_images 函式 (原內容未做更動)
    - 設定預設的增強與負面提示詞 (有使用 ChatGPT 基於老師範例的 prompt 做延伸)
+     ![image](https://github.com/user-attachments/assets/02a5df54-bb76-4b30-ba47-783d978b4f9a)
    - 建立 Gradio 網頁互動介面 (有修改部分內容)
 3. Demo:
 ![image](https://github.com/user-attachments/assets/ed007e41-ecbc-4057-9b6c-3f4a197c5353)
