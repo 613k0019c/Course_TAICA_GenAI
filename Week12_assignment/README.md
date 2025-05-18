@@ -53,7 +53,7 @@
 
    Prompt:
 
-   This input image is of Sung Jin-Woo, the main character from the anime Solo Leveling. I'd like you to convert this image into one that is suitable for use as a personal avatar, and the generated image should still feature Sung Jin-Woo.
+   This input image is of Sung Jin-Woo, the main character from the anime Solo Leveling. I'd like you to convert this image into one that is suitable for use as a personal avatar.
    
 3. 使用 Style Inpaint 模組，風格選擇 SAI Anime
 
